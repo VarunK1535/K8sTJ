@@ -11,3 +11,6 @@
 >> https://marketplace.visualstudio.com/items?itemName=ipedrazas.kubernetes-snippets
 > 3. YAML by RedHat
 > 4. Non-breaking space highlighter by Viktor Zetterstrom
+
+### How to setup minikube on Linux/Windows/mac
+> [] [minikube on VirtualBox](https://github.com/VarunK1535/K8sTJ/blob/main/minikube-setup.md)
